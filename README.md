@@ -12,8 +12,6 @@ The current prototype implements whole-file deduplication, identifying files wit
 
 - C++ compiler (GCC/G++)
 - Terminal or command-line interface
-- C++11 or later
-- No external libraries required
 
 ## Compilation and Execution
 
